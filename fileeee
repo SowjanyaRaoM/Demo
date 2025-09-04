@@ -1,4 +1,10 @@
-Bitbucket OAuth Token: bb_oauth_dummy_9999999999abcdef
-Jira API Token: jira_dummyToken9999999999abcdef
-Confluence API Token: conf_dummyToken9999999999abcdef
-Slack Webhook URL: https://hooks.slack.com/services/T99999999/B99999999/abcdefDummy9999
+GitHub OAuth Token: gh_oauth_dummy_abcdef1234567890abcdef1234
+Bitbucket App Password: bbp_dummyPassword1234567890abcdef
+GitLab Runner Token: glrt-dummy-1234567890abcdef12345678
+CircleCI API Token: cci_dummyToken1234567890abcdef
+Travis CI Token: travis_dummyToken1234567890abcdef
+NPM Token: npm_dummyToken1234567890abcdef12345678
+Yarn Token: yarn_dummyToken9876543210abcdef12345678
+Docker Hub Access Token: dckr_pat_dummy_1234567890abcdef1234
+Kubernetes Kubeconfig Secret: kube_dummy_secret_1234567890abcdef
+Terraform Cloud Token: tfe_dummyToken1234567890abcdef12345678
