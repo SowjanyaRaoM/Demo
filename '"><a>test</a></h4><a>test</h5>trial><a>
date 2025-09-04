@@ -8,3 +8,16 @@ Yarn Token: yarn_dummyToken9876543210abcdef12345678
 Docker Hub Access Token: dckr_pat_dummy_1234567890abcdef1234
 Kubernetes Kubeconfig Secret: kube_dummy_secret_1234567890abcdef
 Terraform Cloud Token: tfe_dummyToken1234567890abcdef12345678
+
+
+Okta Client Secret: okta_dummySecretKey101010abcdef
+Auth0 Client Secret: auth0_dummySecretKey101010abcdef
+AWS RDS Password: dummyRdsPassword101010abcdef
+MongoDB Connection String: mongodb+srv://dummyUser:dummyPass@cluster0.abcdef1010.mongodb.net/test
+Postgres Connection URL: postgres://dummyuser:dummypass@localhost:5432/dummydb
+MySQL Password: dummyMySqlPass101010abcdef
+Kubernetes Service Account Token: kube_dummy_service_token_101010abcdef
+Hashicorp Consul Token: consul_dummyToken101010abcdef
+Vault Root Token: vault_dummyRootToken101010abcdef
+Dynatrace API Token: dt0c01.dummyToken101010abcdef123456
+
