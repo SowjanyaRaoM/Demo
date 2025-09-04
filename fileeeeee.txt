@@ -1,4 +1,13 @@
-Bitbucket OAuth Token: bb_oauth_dummy_9999999999abcdef
-Jira API Token: jira_dummyToken9999999999abcdef
-Confluence API Token: conf_dummyToken9999999999abcdef
-Slack Webhook URL: https://hooks.slack.com/services/T99999999/B99999999/abcdefDummy9999
+RedHat OpenShift Token: ocp_dummyToken1234567890abcdef
+GitHub App Private Key:
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDUMMYKEYDATA8888
+-----END PRIVATE KEY-----
+AWS Session Token: FwoGZXIvYXdzEJr//////////wEaDUMMYSESSIONTOKEN888888888
+Cloudflare API Token: cf_dummyToken1234567890abcdef
+Cloudflare Global API Key: 8888abcd1234efgh5678ijkl9012mnop3456qrst
+Fastly API Token: fastly_dummyToken1234567890abcdef
+Render API Key: rnd_dummyKey1234567890abcdef
+Supabase API Key: sbp_dummyKey1234567890abcdef
+Linear API Key: lin_dummyKey1234567890abcdef
+Sentry Auth Token: sntr_dummyAuthToken1234567890abcdef
