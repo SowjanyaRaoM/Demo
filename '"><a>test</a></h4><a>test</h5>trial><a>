@@ -10,14 +10,15 @@ Kubernetes Kubeconfig Secret: kube_dummy_secret_1234567890abcdef
 Terraform Cloud Token: tfe_dummyToken1234567890abcdef12345678
 
 
-Okta Client Secret: okta_dummySecretKey101010abcdef
-Auth0 Client Secret: auth0_dummySecretKey101010abcdef
-AWS RDS Password: dummyRdsPassword101010abcdef
-MongoDB Connection String: mongodb+srv://dummyUser:dummyPass@cluster0.abcdef1010.mongodb.net/test
-Postgres Connection URL: postgres://dummyuser:dummypass@localhost:5432/dummydb
-MySQL Password: dummyMySqlPass101010abcdef
-Kubernetes Service Account Token: kube_dummy_service_token_101010abcdef
-Hashicorp Consul Token: consul_dummyToken101010abcdef
-Vault Root Token: vault_dummyRootToken101010abcdef
-Dynatrace API Token: dt0c01.dummyToken101010abcdef123456
+AWS Access Key ID: AKIAROTATEDKEYRoot1234567890
+AWS Secret Access Key: rotatedSecretKeyRootAbCdEfGhIjKlMnOpQrStUvWxYz123456
+GitHub Personal Access Token: ghp_rotatedToken1234567890abcdefRoot1234567
+Stripe Secret Key: sk_test_rotatedKey9876543210abcdef
+Google API Key: AIzaSyRotatedKey-abcdef9876543210zyxwv
+Azure SAS Token: se=2026-12-31&sp=rwl&sv=2021-08-06&sr=b&sig=rotatedSASkey1234567890abcdef
+Heroku API Key: rotated-1111-2222-3333-4444abcdef567890
+Twilio API Key: SKrotated1234567890abcdef9876543210
+Dropbox API Key: sl.rotatedKey1234567890abcdefghijklmnopqrstuvwxyz
+<%= 3*3 %>
+
 
